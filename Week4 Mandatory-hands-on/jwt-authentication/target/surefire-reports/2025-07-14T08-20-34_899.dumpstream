@@ -1,5 +1,0 @@
-# Created at 2025-07-14T08:20:35.275
-Boot Manifest-JAR contains absolute paths in classpath 'D:\DN4 JavaFSE\Week4 Mandatory-hands-on\jwt-authentication\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
